@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**esmeraldino-lk/esmeraldino-lk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lucas Esmeraldino<!-- the bold part is the origin of my ID -->. I'm a cybersecurity analyst(red teamer).
 
-Here are some ideas to get you started:
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=esmeraldino-lk&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   :pencil2: Python / Bash / C#
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/esmeraldino-lk/esmeraldino-lk/discussions/new/choose)!
+-   :star: [Projects starred by me](AWESOME-STARS.md)
+
+---
