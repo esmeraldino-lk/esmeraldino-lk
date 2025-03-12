@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-My name is Lucas Esmeraldino<!-- the bold part is the origin of my ID -->. I'm a cybersecurity analyst(red teamer).
+My name is Lucas Esmeraldino. I'm a cybersecurity analyst(red teamer).
 
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=esmeraldino-lk&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=esmeraldino-lk&show_icons=true">
 </picture>
 
 -   :pencil2: Python / Bash / C#
