@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 My name is Lucas Esmeraldino. I'm a cybersecurity analyst(red teamer).
 
